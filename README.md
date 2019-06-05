@@ -18,3 +18,11 @@ to the container's
       -p 50000:50000 \
       individuwill/jenkins-docker:latest
 
+### Docker Compose
+
+Check out the example Docker compose file here [docker-compose.yml](docker-compose.yml)
+
+And run it with:
+
+    docker-compose up
+
